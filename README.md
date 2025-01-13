@@ -1,8 +1,8 @@
 
 # ResumAI
-![Resume Image](resum_ai/resume.png)
+(https://github.com/waliullah-khan/resume_assistant/blob/files/resume.jpeg)
 
-ResumAI -- a resume assistant application. This app matches you to jobs, offers recommendations, and optimizes your resume using DataStax's AI Platform: [Astra DB](https://www.datastax.com/lp/managed-cassandra-in-cloud?utm_source=google&utm_medium=cpc&utm_campaign=ggl_s_nam_nonbrand_cassandra&utm_term=apache%20cassandra%20data%20model&utm_content=cassandra-apache&gad_source=1) (Vector Database) and [Langflow](https://www.datastax.com/products/langflow) (Visual AI Application Builder).
+Your very own Resume Assistant -- an agentic resume assistant. This app matches you to jobs, offers recommendations, and optimizes your resume using DataStax's AI Platform: [Astra DB](https://www.datastax.com/lp/managed-cassandra-in-cloud?utm_source=google&utm_medium=cpc&utm_campaign=ggl_s_nam_nonbrand_cassandra&utm_term=apache%20cassandra%20data%20model&utm_content=cassandra-apache&gad_source=1) (Vector Database) and [Langflow](https://www.datastax.com/products/langflow) (Visual AI Application Builder).
 
   
 
