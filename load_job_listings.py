@@ -53,11 +53,11 @@ for index, row in job_listings.iterrows():
                 {'$set': {
                     'job_title': row['title'],
                     'company': row['company_name'],
+                    'job_url': row['job_posting_url'],
                     '$vectorize': content,
                     'max_salary': row['max_salary'],
                     'pay_period': row['pay_period'],
                     'location': row['location'],
-                    'job_url': row['job_posting_url'],
                     'content': truncate_content(content),
                     'metadata': {'ingested': datetime.now()}
                 }},
