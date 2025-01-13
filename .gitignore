@@ -1,0 +1,13 @@
+# Ignore venv
+venv/
+resum_ai/venv/
+
+# Ignore environment variables
+.env 
+secrets.toml   
+
+# Ignore __pycache__
+__pycache__/
+
+# Ignore .DS_Store
+.DS_Store

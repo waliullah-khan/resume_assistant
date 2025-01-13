@@ -1,0 +1,4 @@
+
+datasets==2.3.0
+streamlit==1.12.2
+langflow==1.0.19
