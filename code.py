@@ -14,9 +14,9 @@ import os
 
 # Constants
 BASE_API_URL = "https://api.langflow.astra.datastax.com"
-LANGFLOW_ID = "83499eea-2ef8-4364-b28b-5df4de22b2d6"
+LANGFLOW_ID = "LANGFLOW ID"
 ENDPOINT = "candidate"
-APPLICATION_TOKEN = "AstraCS:lUuSvvHhZJdPmshgtWcCepUx:9bf8896b68516b04aabf72fda128df4baaf86fe0602cc115f58eaaf182b093c2"
+APPLICATION_TOKEN = "APP_TOKEN"
 
 # Custom CSS
 st.markdown("""
